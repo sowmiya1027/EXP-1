@@ -84,7 +84,6 @@ b.  KCL:
 
 
 Tabulation:
-
 a.   KVL:
 ![WhatsApp Image 2025-11-17 at 18 59 55_4343c6bc](https://github.com/user-attachments/assets/833d5b8e-cbf1-4f45-a89b-122de6d55f7e)
 
